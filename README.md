@@ -1,16 +1,54 @@
-### Hi there 👋
+<h2 text-decoration="none" align="center">✉️ Contact me in telegram - <a href="http://t.me/contact_witstof_bot">t.me/contact_witstof_bot</a> (in progress ⏳)</h2>
 
-<!--
-**witstof/witstof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h3 align="center">My current skills</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=lua,python,vscode,nodejs" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+```typescript
+type PersonalInformation = { username: string, age: number }
+type CodingTime = { years?: number, months?: number }
+type Languages = "C" | "C#" | "C++" | "Lua" | "Python" | "JavaScript" | "TypeScript"
+
+class Information {
+  public static getPersonalInformation(): PersonalInformation {
+    return {
+      username: "witstof",
+      age: 18
+    }
+  }
+
+  public static getBooksRead(): string[] {
+    return [
+      "'Clean code' by Robert C. Martin",
+      "'Grokking Algorithms' by Aditya Y. Bhargava",
+      "'Programming TypeScript' by Boris Cherny",
+      "'The C Programming Language' by Brain W. Kernighan & Dennis M. Ritchie",
+      "Some other unpopular books~"
+    ]
+  }
+
+  public static getCodingTime(): {[language in Languages]: CodingTime} {
+    return {
+      "C":          { "months": 6 },
+      "C#":         { "months": 4 },
+      "C++":        { "months": 7 },
+      "Lua":        { "years": 2 },
+      "Python":     { "years": 2 },
+      "JavaScript": { "years": 2 },
+      "TypeScript": { "years": 1 }
+    }
+  }
+}
+```
+
+<hr>
+
+<h3 align="center">🌸 Be kind 🌸</h3>
