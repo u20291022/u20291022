@@ -1,4 +1,4 @@
-<h2 text-decoration="none" align="center">✉️ Contact me in telegram - <a href="http://t.me/contact_witstof_bot">t.me/contact_witstof_bot</a></h2>
+<h2 text-decoration="none" align="center">✉️ Contact me in telegram - <a target="_blank" href="http://t.me/contact_witstof_bot">t.me/contact_witstof_bot</a></h2>
 
 <hr>
 
