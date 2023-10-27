@@ -1,4 +1,4 @@
-<h2 align="center">🔗 visit my site: <a href="https://u20291022.info">u20291022.info</a></h2>
+<h2 align="center">🔗 visit my info site: <a href="https://u20291022.info">u20291022.info</a></h2>
 
 <hr>
 
